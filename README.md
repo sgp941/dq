@@ -13,3 +13,8 @@
 6. [Clean and analyse employee exit surveys](https://github.com/sgp941/dq/blob/master/analyst/data_clean_1/Basics.ipynb)
 7. [Analysing NYC high school data](https://github.com/sgp941/dq/blob/master/analyst/data_clean_2/Schools.ipynb)
 8. [Star Wars film survey analysis](https://github.com/sgp941/dq/blob/master/analyst/data_clean_3/Basics.ipynb)
+
+### Working with data sources
+9. [Analysing CIA Factbook data using SQLite]
+10. [Answering business questions using SQL]
+11. [MLB database design]
