@@ -15,6 +15,9 @@
 8. [Star Wars film survey analysis](https://github.com/sgp941/dq/blob/master/analyst/data_clean_3/Basics.ipynb)
 
 ### Working with data sources
-9. [Analysing CIA Factbook data using SQLite]
+9. [Analysing CIA Factbook data using SQLite](https://github.com/sgp941/dq/blob/master/analyst/sql_1/Basics.ipynb)
 10. [Answering business questions using SQL]
-11. [MLB database design]
+11. [MLB database design](https://github.com/sgp941/dq/blob/master/analyst/sql_3/Basics.ipynb)
+
+### Probability and statistics
+
