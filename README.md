@@ -2,11 +2,19 @@
 
 ## analyst stream
 
+manipulating and analysing data
+
 ### python introduction
+
+python fundamentals and basic data analysis
+
 1. [Profitable app profiles for the App Store and Google Play markets](https://github.com/sgp941/dq/blob/master/analyst/python_intro_1/Basics.ipynb)
 2. [Exploring Hacker News posts](https://github.com/sgp941/dq/blob/master/analyst/python_intro_2/Basics.ipynb)
 
 ### data analysis and visualisation
+
+pandas and numpy packages, data visualisation, and advanced cleaning & analysis
+
 3. [Exploring eBay car sales data](https://github.com/sgp941/dq/blob/master/analyst/pandas_fund/Basics.ipynb)
 4. [Visualising earnings based on college majors](https://github.com/sgp941/dq/blob/master/analyst/data_vis_1/Basics.ipynb)
 5. [Visualising the gender gap in college degrees](https://github.com/sgp941/dq/blob/master/analyst/data_vis_2/Basics.ipynb)
@@ -15,11 +23,17 @@
 8. [Star Wars film survey analysis](https://github.com/sgp941/dq/blob/master/analyst/data_clean_3/Basics.ipynb)
 
 ### working with data sources
+
+building sql complex queries to interact with databases, postgresql, APIs and web scraping
+
 9. [Analysing CIA Factbook data using SQLite](https://github.com/sgp941/dq/blob/master/analyst/sql_1/Basics.ipynb)
 10. [Answering business questions using SQL]
 11. [MLB database design](https://github.com/sgp941/dq/blob/master/analyst/sql_3/Basics.ipynb)
 
 ### probability and statistics
+
+statistics and probability fundamentals, conditional probability, and hypothesis testing
+
 12. [Investigating Fandano movie ratings](https://github.com/sgp941/dq/blob/master/analyst/stat_1/Basics.ipynb)
 13. [Finding the best markets to advertise in](https://github.com/sgp941/dq/blob/master/analyst/stat_2/Basics.ipynb)
 14. [Mobile app for lottery addiction](https://github.com/sgp941/dq/blob/master/analyst/prob_1/Basics.ipynb)
@@ -28,13 +42,27 @@
 
 ## scientist stream
 
+making inferences and predictions from data
+
 ### machine learning
-17. [Predicting car prices]
-18. [Predicting house sale prices]
-19. [Predicting the stock market]
+
+machine learning fundamentals, K-nn algorithm, calculus & linear algebra, linear regression, logistic regression, classification, k-means clustering, and decision trees 
+
+17. [Predicting car prices](https://github.com/sgp941/dq/blob/master/scientist/mach_learn_1/Basics.ipynb)
+18. [Predicting house sale prices](https://github.com/sgp941/dq/blob/master/scientist/mach_learn_2/Basics.ipynb)
+19. [Predicting the stock market](https://github.com/sgp941/dq/blob/master/scientist/mach_learn_3/predict.py)
 20. [Predicting bike rentals]
-21. [Building a handwritten digits classifier]
+
+### more machine learning
+
+deep learning intro, machine learning workflow (feature preparation, selection, and engineering -> model selection and tuning), sentiment analysis, and natural language processing
+
+21. [Building a handwritten digits classifier](https://github.com/sgp941/dq/blob/master/scientist/mach_learn_5/Basics.ipynb)
+22. [Credit modelling]
+23. [Creating a kaggle workflow]
 
 ### other advanded topics
+
+context managers, decorators, data structures & algorithms, lambda functions, exception handling, cli, git & version control, spark and map-reduce
 
 22. [Investigating airplane accidents]
