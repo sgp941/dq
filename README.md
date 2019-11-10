@@ -1,4 +1,4 @@
-# DataQuest.io Projects
+# dataquest
 
 ## Analyst stream
 
@@ -20,4 +20,8 @@
 11. [MLB database design](https://github.com/sgp941/dq/blob/master/analyst/sql_3/Basics.ipynb)
 
 ### Probability and statistics
-
+12. [Investigating Fandano movie ratings]
+13. [Finding the best markets to advertise in]
+14. [Mobile app for lottery addiction]
+15. [Building a spam filter with Naive Bayes]
+16. [Winning Jeopardy]
