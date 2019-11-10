@@ -33,7 +33,6 @@
 18. [Predicting house sale prices]
 19. [Predicting the stock market]
 20. [Predicting bike rentals]
-
 21. [Building a handwritten digits classifier]
 
 ### other advanded topics
