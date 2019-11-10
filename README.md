@@ -20,11 +20,11 @@
 11. [MLB database design](https://github.com/sgp941/dq/blob/master/analyst/sql_3/Basics.ipynb)
 
 ### probability and statistics
-12. [Investigating Fandano movie ratings]
-13. [Finding the best markets to advertise in]
-14. [Mobile app for lottery addiction]
+12. [Investigating Fandano movie ratings](https://github.com/sgp941/dq/blob/master/analyst/stat_1/Basics.ipynb)
+13. [Finding the best markets to advertise in](https://github.com/sgp941/dq/blob/master/analyst/stat_2/Basics.ipynb)
+14. [Mobile app for lottery addiction](https://github.com/sgp941/dq/blob/master/analyst/prob_1/Basics.ipynb)
 15. [Building a spam filter with Naive Bayes]
-16. [Winning Jeopardy]
+16. [Winning Jeopardy](https://github.com/sgp941/dq/blob/master/analyst/hyp_test/Basics.ipynb)
 
 ## scientist stream
 
