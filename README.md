@@ -59,7 +59,7 @@ Deep learning intro, machine learning workflow (feature preparation, selection, 
 
 21. [Building a handwritten digits classifier](https://github.com/sgp941/dq/blob/master/scientist/mach_learn_5/Basics.ipynb)
 22. [Credit modelling]
-23. [Creating a kaggle workflow]
+23. [Creating a workflow for Kaggle Titanic competition](https://github.com/sgp941/dq/blob/master/scientist/mach_learn_7/Basics.ipynb)
 
 ### Other advanded topics
 
