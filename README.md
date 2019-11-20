@@ -37,7 +37,7 @@ Statistics and probability fundamentals, conditional probability, and hypothesis
 12. [Investigating Fandano movie ratings](https://github.com/sgp941/dq/blob/master/analyst/stat_1/Basics.ipynb)
 13. [Finding the best markets to advertise in](https://github.com/sgp941/dq/blob/master/analyst/stat_2/Basics.ipynb)
 14. [Mobile app for lottery addiction](https://github.com/sgp941/dq/blob/master/analyst/prob_1/Basics.ipynb)
-15. [Building a spam filter with Naive Bayes]
+15. [Building a spam filter with Naive Bayes](https://github.com/sgp941/dq/blob/master/analyst/cond_prob/Basics.ipynb)
 16. [Winning Jeopardy](https://github.com/sgp941/dq/blob/master/analyst/hyp_test/Basics.ipynb)
 
 ## Scientist stream
