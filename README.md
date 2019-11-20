@@ -58,7 +58,7 @@ Machine learning fundamentals, K-nn algorithm, calculus & linear algebra, linear
 Deep learning intro, machine learning workflow (feature preparation, selection, and engineering -> model selection and tuning), sentiment analysis, and natural language processing
 
 21. [Building a handwritten digits classifier](https://github.com/sgp941/dq/blob/master/scientist/mach_learn_5/Basics.ipynb)
-22. [Credit modelling]
+22. [Credit modelling](https://github.com/sgp941/dq/blob/master/scientist/mach_learn_6/Basics.ipynb)
 23. [Creating a workflow for Kaggle Titanic competition](https://github.com/sgp941/dq/blob/master/scientist/mach_learn_7/Basics.ipynb)
 
 ### Other advanded topics
