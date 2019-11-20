@@ -51,7 +51,7 @@ Machine learning fundamentals, K-nn algorithm, calculus & linear algebra, linear
 17. [Predicting car prices](https://github.com/sgp941/dq/blob/master/scientist/mach_learn_1/Basics.ipynb)
 18. [Predicting house sale prices](https://github.com/sgp941/dq/blob/master/scientist/mach_learn_2/Basics.ipynb)
 19. [Predicting the stock market](https://github.com/sgp941/dq/blob/master/scientist/mach_learn_3/predict.py)
-20. [Predicting bike rentals]((https://github.com/sgp941/dq/blob/master/scientist/mach_learn_4/predict.py)
+20. [Predicting bike rentals](https://github.com/sgp941/dq/blob/master/scientist/mach_learn_4/predict.py)
 
 ### More machine learning
 
