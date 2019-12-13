@@ -27,7 +27,7 @@ Pandas and numpy packages, data visualisation, and advanced cleaning & analysis
 Building complex SQL queries to interact with databases, postgresql, APIs and web scraping
 
 9. [Analysing CIA Factbook data using SQLite](https://github.com/sgp941/dq/blob/master/analyst/sql_1/Basics.ipynb)
-10. [Answering business questions using SQL](https://github.com/sgp941/dq/blob/master/analyst/sql_2/Basics.ipynb
+10. [Answering business questions using SQL](https://github.com/sgp941/dq/blob/master/analyst/sql_2/Basics.ipynb)
 11. [MLB database design](https://github.com/sgp941/dq/blob/master/analyst/sql_3/Basics.ipynb)
 
 ### Probability and statistics
